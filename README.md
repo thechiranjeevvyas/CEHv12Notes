@@ -1,4 +1,4 @@
-# CEH v12 Notes <a href="https://github.com/m3hu1/CEH-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
+# CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/CEHv12NOtes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0bb6b487-42e4-4ccc-8709-ea0b6e8b5a93/deploy-status)](https://app.netlify.com/sites/cehnotes/deploys)
 
@@ -14,7 +14,7 @@
 
 - ⭐ If you find these notes valuable, please consider starring the repository to show your support!
 
-- 🙌 Contributions are greatly appreciated! Feel free to to check out the [repo](https://github.com/m3hu1/CEH-Notes) and enhance this resource by submitting a [pull request](https://github.com/m3hu1/CEH-Notes/pulls). A list of contributors will be maintained to recognize your efforts.
+- 🙌 Contributions are greatly appreciated! Feel free to to check out the [repo](https://github.com/thechiranjeevvyas/CEHv12Notes) and enhance this resource by submitting a [pull request](https://github.com/thechiranjeevvyas/CEHv12Notes/pulls). A list of contributors will be maintained to recognize your efforts.
 
 ## Modules
 
