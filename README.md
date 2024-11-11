@@ -6,7 +6,7 @@
 
 - Welcome to the study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam! This collection has been thoughtfully created by [@Chiranjeev](https://github.com/thechiranjeevvyas) as fork of the original repository by FindMeAndKillMe.
 
-- These notes are elegantly published using **Gitbooks** and hosted on **Netlify** for easy access.
+- These notes are elegantly published using **Gitbooks**.
 
 - Inside, you'll find a wealth of references to external sources and engaging labs designed to reinforce the learning concepts of each module.
 
