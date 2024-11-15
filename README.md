@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/CEHv12Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
+=======
+# CEH v12 Notes <a href="https://github.com/m3hu1/CEH-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
+>>>>>>> cb5fe9a (content changes)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0bb6b487-42e4-4ccc-8709-ea0b6e8b5a93/deploy-status)](https://app.netlify.com/sites/cehnotes/deploys)
 
@@ -18,6 +22,7 @@
 
 ## Modules
 
+<<<<<<< HEAD
 - [Module 01: Introduction to Ethical Hacking](module_01_Intro_to_Ethical_Hacking/01_information_security.md)
 - [Module 02: Foot Printing and Reconnaissance](module_02_Footprinting/01_footprinting_concepts.md)
 - [Module 03: Scanning Networks](module_03_Scanning_Networks/01_network_scanning_concepts.md)
@@ -38,3 +43,15 @@
 - [Module 18: IoT & OT Hacking](module_18_IoT_OT/01_iot_hacking.md)
 - [Module 19: Cloud Computing](module_19_CloudComputing/01_cloud_computing_concepts.md)
 - [Module 20: Cryptography](module_20_Cryptography/01_cryptography_concepts.md)
+=======
+- [Module 01: Introduction to Ethical Hacking](module_01/01_information_security.md)
+- [Module 02: Foot Printing and Reconnaissance](module_02/01_footprinting_concepts.md)
+- [Module 03: Scanning Networks](module_03/01_network_scanning_concepts.md)
+- [Module 04: Enumeration](module_04/01_enumeration_concepts.md)
+- [Module 05: Vulnerability Analysis](module_05/01_vulnerability_assessment_concepts.md)
+- [Module 06: System Hacking](module_06/01_gaining_access.md)
+- [Module 07: Malware Threats](module_07/01_malware_concepts.md)
+- [Module 08: Sniffing](module_08/01_sniffing_concepts.md)
+- [Module 09: Social Engineering](module_09/01_social_engineering_concepts.md)
+- [Module 10: Denial-of-Service](module_10/01_dos_ddos_concepts.md)
+>>>>>>> cb5fe9a (content changes)
