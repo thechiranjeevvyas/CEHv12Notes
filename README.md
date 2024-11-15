@@ -1,5 +1,5 @@
-# CEH v12 Notes <a href="https://github.com/m3hu1/CEH-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
->>>>>>> cb5fe9a (content changes)
+# CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/CEHv12Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0bb6b487-42e4-4ccc-8709-ea0b6e8b5a93/deploy-status)](https://app.netlify.com/sites/cehnotes/deploys)
 
