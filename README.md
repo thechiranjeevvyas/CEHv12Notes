@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/CEHv12Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
-=======
 # CEH v12 Notes <a href="https://github.com/m3hu1/CEH-Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
 >>>>>>> cb5fe9a (content changes)
 
@@ -54,4 +51,3 @@
 - [Module 08: Sniffing](module_08/01_sniffing_concepts.md)
 - [Module 09: Social Engineering](module_09/01_social_engineering_concepts.md)
 - [Module 10: Denial-of-Service](module_10/01_dos_ddos_concepts.md)
->>>>>>> cb5fe9a (content changes)
