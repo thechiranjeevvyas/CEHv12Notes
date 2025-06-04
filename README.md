@@ -1,3 +1,4 @@
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=C084FC)](https://cvs-organization.gitbook.io/ceh-v12-notes)
 # CEH v12 Notes <a href="https://github.com/thechiranjeevvyas/CEHv12Notes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="23" height="23"></a>
 
 
