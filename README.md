@@ -1,12 +1,8 @@
----
-icon: hand-wave
----
-
 # README
 
 [![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=C084FC)](https://cvs-organization.gitbook.io/ceh-v12-notes)
 
-## CEH v12 Notes [![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/thechiranjeevvyas/CEHv12Notes)
+## CEH v12 Notes 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0bb6b487-42e4-4ccc-8709-ea0b6e8b5a93/deploy-status)](https://app.netlify.com/sites/cehnotes/deploys)
 
@@ -22,8 +18,6 @@ icon: hand-wave
 * 🙌 Contributions are greatly appreciated! Feel free to to check out the [repo](https://github.com/thechiranjeevvyas/CEHv12Notes) and enhance this resource by submitting a [pull request](https://github.com/thechiranjeevvyas/CEHv12Notes/pulls). A list of contributors will be maintained to recognize your efforts.
 
 ### Modules
-
-<<<<<<< HEAD
 
 * [Module 01: Introduction to Ethical Hacking](module_01_Intro_to_Ethical_Hacking/01_information_security.md)
 * [Module 02: Foot Printing and Reconnaissance](module_02_Footprinting/01_footprinting_concepts.md)
@@ -45,14 +39,3 @@ icon: hand-wave
 * [Module 18: IoT & OT Hacking](module_18_IoT_OT/01_iot_hacking.md)
 * [Module 19: Cloud Computing](module_19_CloudComputing/01_cloud_computing_concepts.md)
 * [Module 20: Cryptography](module_20_Cryptography/01_cryptography_concepts.md)\
-  \=======
-* [Module 01: Introduction to Ethical Hacking](module_01/01_information_security.md)
-* [Module 02: Foot Printing and Reconnaissance](module_02/01_footprinting_concepts.md)
-* [Module 03: Scanning Networks](module_03/01_network_scanning_concepts.md)
-* [Module 04: Enumeration](module_04/01_enumeration_concepts.md)
-* [Module 05: Vulnerability Analysis](module_05/01_vulnerability_assessment_concepts.md)
-* [Module 06: System Hacking](module_06/01_gaining_access.md)
-* [Module 07: Malware Threats](module_07/01_malware_concepts.md)
-* [Module 08: Sniffing](module_08/01_sniffing_concepts.md)
-* [Module 09: Social Engineering](module_09/01_social_engineering_concepts.md)
-* [Module 10: Denial-of-Service](module_10/01_dos_ddos_concepts.md)
