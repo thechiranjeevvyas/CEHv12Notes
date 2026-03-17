@@ -6,9 +6,13 @@
 
 ## Risk
 
-Information security risk
+## Information Security Risk
 
-[Definition](../definitions/definitions_I.md#information-security-risk)
+The risk to organizational operations (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation due to the potential for unauthorized access, use, disclosure, disruption, modification, or destruction of information and/or information systems.
+
+Links
+
+- [https://csrc.nist.gov/glossary/term/information_security_risk](https://csrc.nist.gov/glossary/term/information_security_risk)
 
 Risk matrix
 
