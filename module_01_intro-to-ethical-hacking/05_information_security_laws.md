@@ -32,15 +32,20 @@ Links
 
 ## Sarbanes–Oxley Act
 
-Sarbanes–Oxley Act
+The Sarbanes–Oxley Act of 2002 is a United States federal law that mandates certain practices in financial record keeping and reporting for corporations.
 
-[Definition](../definitions/definitions_S.md#sarbanesoxley-act)
+Links
+
+- [https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 
 ## Digital Millennium Copyright Act
 
-Digital Millennium Copyright Act
+The Digital Millennium Copyright Act (DMCA) is a 1998 United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO).
+It criminalizes production and dissemination of technology, devices, or services intended to circumvent measures that control access to copyrighted works (commonly known as digital rights management or DRM).
 
-[Definition](../definitions/definitions_D.md#digital-millennium-copyright-act)
+Links
+
+- [https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
 ## Federal Information Security Modernization Act (FISMA)
 
