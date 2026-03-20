@@ -47,20 +47,33 @@ Links
 
 - [https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
-## Federal Information Security Modernization Act (FISMA)
+## Federal Information Security Modernization Act
 
-Federal Information Security Modernization Act (Fisma)
+The Federal Information Security Modernization Act of 2014 (FISMA 2014) updates the Federal Government's cybersecurity practices by:
 
-[Definition](../definitions/definitions_F.md#federal-information-security-modernization-act)
+- Codifying Department of Homeland Security (DHS) authority to administer the implementation of information security policies for non-national security federal Executive Branch systems, including providing technical assistance and deploying technologies to such systems;
+- Amending and clarifying the Office of Management and Budget's (OMB) oversight authority over federal agency information security practices; and by
+- Requiring OMB to amend or revise OMB A-130 to "eliminate inefficient and wasteful reporting."
 
-## General Data Protection Regulation (GDPR)
+Links
 
-General Data Protection Regulation (GDPR)
+- [https://www.cisa.gov/federal-information-security-modernization-act](https://www.cisa.gov/federal-information-security-modernization-act)
 
-[Definition](../definitions/definitions_G.md#general-data-protection-regulation)
+## General Data Protection Regulation
+
+The General Data Protection Regulation (GDPR) is the toughest privacy and security law in the world.
+Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU.
+The regulation was put into effect on May 25, 2018.
+The GDPR will levy harsh fines against those who violate its privacy and security standards, with penalties reaching into the tens of millions of euros.
+
+Links
+
+- [https://gdpr.eu](https://gdpr.eu)
 
 ## Data Protection Act 2018
 
-Data Protection Act 2018
+The Data Protection Act 2018 is the UK’s implementation of the General Data Protection Regulation (GDPR).
 
-[Definition](../definitions/definitions_D.md#data-protection-act-2018)
+Links
+
+- [https://www.gov.uk/data-protection](https://www.gov.uk/data-protection)
