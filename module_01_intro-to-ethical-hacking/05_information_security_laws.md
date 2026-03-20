@@ -1,22 +1,34 @@
 # Section 05: Information Security Laws
 
-## The Payment Card Industry Data Security Standard (PCI DSS)
+## The Payment Card Industry Data Security Standard
 
-The Payment Card Industry Data Security Standard (PCI DSS)
+The Payment Card Industry Data Security Standard (PCI DSS) is an information security standard for organizations that handle branded credit cards from the major card schemes.
 
-[Definition](../definitions/definitions_P.md#the-payment-card-industry-data-security-standard)
+Links
 
-## ISO/IEC 27001:2013
+- [https://www.pcisecuritystandards.org](https://www.pcisecuritystandards.org)
+- [https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
 
-ISO/IEC 27001:2013
+## ISO 27001
 
-[Definition](../definitions/definitions_I.md#iso-27001)
+ISO/IEC 27001 is an international standard on how to manage information security.
+The standard was originally published jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) in 2005 and then revised in 2013.
+It details requirements for establishing, implementing, maintaining and continually improving an information security management system (ISMS) – the aim of which is to help organizations make the information assets they hold more secure.
 
-## Health Insurance Portability and Accountability Act (HIPAA)
+Links
 
-Health Insurance Portability and Accountability Act (HIPAA)
+- [https://www.iso.org/standard/54534.html](https://www.iso.org/standard/54534.html)
+- [https://en.wikipedia.org/wiki/ISO/IEC_27001](https://en.wikipedia.org/wiki/ISO/IEC_27001)
 
-[Definition](../definitions/definitions_H.md#health-insurance-portability-and-accountability-act)
+## Health Insurance Portability and Accountability Act
+
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA or the Kennedy–Kassebaum Act) is a United States Act of Congress enacted by the 104th United States Congress and signed into law by President Bill Clinton on August 21, 1996.
+It modernized the flow of healthcare information, stipulates how personally identifiable information maintained by the healthcare and healthcare insurance industries should be protected from fraud and theft, and addressed some limitations on healthcare insurance coverage.
+
+Links
+
+- [https://www.hhs.gov/hipaa/index.html](https://www.hhs.gov/hipaa/index.html)
+- [https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act)
 
 ## Sarbanes–Oxley Act
 
