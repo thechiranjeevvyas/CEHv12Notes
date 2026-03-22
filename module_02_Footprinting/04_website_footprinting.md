@@ -38,8 +38,6 @@ Links
 - [https://archive.org](https://archive.org)
 - [https://en.wikipedia.org/wiki/Internet_Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
-- [Definition](../../definitions/definitions_A.md#archive-org)
-
 ## Metadata Extraction Tools
 
 ## Exiftool
@@ -51,5 +49,3 @@ Links
 
 - [https://exiftool.org](https://exiftool.org)
 - [https://en.wikipedia.org/wiki/ExifTool](https://en.wikipedia.org/wiki/ExifTool)
-
-- [Definition](../../definitions/definitions_E.md#exiftool)
