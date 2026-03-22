@@ -18,4 +18,6 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 
 A metasearch engine (or search aggregator) is an online information retrieval tool that uses the data of a web search engine to produce its own results.
 
-[Definition](../../definitions/definitions_M.md#metasearch-engine)
+Links
+
+- [https://en.wikipedia.org/wiki/Metasearch_engine](https://en.wikipedia.org/wiki/Metasearch_engine)
