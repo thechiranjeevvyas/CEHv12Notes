@@ -4,13 +4,15 @@
 
 Google hacking, also named Google dorking, is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites are using.
 
-[definition](../../definitions/definitions_g.md#google-hacking)
+Links
 
-## Google Hacking Database (GHDB)
+- [https://en.wikipedia.org/wiki/Google_hacking](https://en.wikipedia.org/wiki/Google_hacking)
+
+## Google Hacking Database
 
 The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 
-[Definition](../../definitions/definitions_G.md#google-hacking-database)
+- [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database)
 
 ## Metasearch Engine
 
