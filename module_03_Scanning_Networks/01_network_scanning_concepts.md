@@ -20,8 +20,6 @@ Links
 
 - [https://en.wikipedia.org/wiki/Transmission_Control_Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
-[Definition](../../definitions/definitions_T.md#transmission-control-protocol)
-
 ## nmap
 
 Nmap is a network scanner created by Gordon Lyon.
@@ -33,8 +31,6 @@ Links
 - [https://nmap.org](https://nmap.org)
 - [https://en.wikipedia.org/wiki/Nmap](https://en.wikipedia.org/wiki/Nmap)
 
-[Definition](../../definitions/definitions_N.md#nmap)
-
 ## hping3
 
 hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies.
@@ -44,8 +40,6 @@ Links
 
 - [https://www.kali.org/tools/hping3](https://www.kali.org/tools/hping3)
 
-[Definition](../../definitions/definitions_H.md#hping3)
-
 ## Metasploit
 
 Knowledge is power, especially when it’s shared.
@@ -54,5 +48,3 @@ A collaboration between the open source community and Rapid7, Metasploit helps s
 Links
 
 - [https://www.metasploit.com](https://www.metasploit.com)
-
-- [Definition](../../definitions/definitions_M.md#metasploit)

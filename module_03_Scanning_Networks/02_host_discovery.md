@@ -9,4 +9,3 @@ ARP was defined in 1982 by RFC 826, which is Internet Standard STD 37.
 Links
 
 - [https://en.wikipedia.org/wiki/Address_Resolution_Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
-- [Definition](../../definitions/definitions_A.md#address-resolution-protocol)
