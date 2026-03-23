@@ -8,8 +8,6 @@ Links
 
 - [https://en.wikipedia.org/wiki/Intrusion_detection_system](https://en.wikipedia.org/wiki/Intrusion_detection_system)
 
-[Definition](../../definitions/definitions_I.md#intrusion-detection-system)
-
 Techniques to evade IDS/firewalls are
 
 - Proxy servers
@@ -26,8 +24,6 @@ Links
 
 - [https://en.wikipedia.org/wiki/IP_fragmentation](https://en.wikipedia.org/wiki/IP_fragmentation)
 
-[Definition](../../definitions/definitions_P.md#packet-fragmentation)
-
 ## Source routing
 
 In computer networking, source routing, also called path addressing, allows a sender of a packet to partially or completely specify the route the packet takes through the network.
@@ -35,8 +31,6 @@ In computer networking, source routing, also called path addressing, allows a se
 Links
 
 - [https://en.wikipedia.org/wiki/Source_routing](https://en.wikipedia.org/wiki/Source_routing)
-
-- [Definition](../../definitions/definitions_S.md#source-routing)
 
 ## Evasion Techniques (Spoofing)
 
@@ -48,8 +42,6 @@ Links
 
 - [https://en.wikipedia.org/wiki/IP_address_spoofing](https://en.wikipedia.org/wiki/IP_address_spoofing)
 
-[Definition](../../definitions/definitions_I.md#internet-protocol-address-spoofing)
-
 ## Media Access Control Address Spoofing
 
 MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device.
@@ -59,8 +51,6 @@ However, many drivers allow the MAC address to be changed.
 Links
 
 - [https://en.wikipedia.org/wiki/MAC_spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
-
-- [Definition](../../definitions/definitions_M.md#media-access-control-address-spoofing)
 
 ## Evasion Techniques (Other)
 
@@ -76,5 +66,3 @@ Randomizing host order. The `nmap` option `--randomize-hosts` man pages is
 ## Proxy Server
 
 In computer networking, a proxy server is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.
-
-[Definition](../../definitions/definitions_P.md#proxy-server)
