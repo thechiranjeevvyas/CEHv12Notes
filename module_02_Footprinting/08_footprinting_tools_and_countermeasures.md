@@ -1,14 +1,25 @@
 # Section 08: Footprinting Tools and Countermeasures
 
 ## Tools
-Recon-ng
 
-[Definition](../../definitions/definitions_R.md#recon-ng)
+## Recon-ng
+
+Recon-ng is a Web Reconnaissance tool written in Python.
+It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.
+
+Links
+
+- [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
 
 ## Countermeasures
-Split DNS
 
-[Definition](../../definitions/definitions_S.md#split-dns)
+## Split DNS
+
+In computer networking, split-horizon DNS (also known as split-view DNS, split-brain DNS, or split DNS) is the facility of a Domain Name System (DNS) implementation to provide different sets of DNS information, usually selected by the source address of the DNS request.
+
+Links
+
+- [https://en.wikipedia.org/wiki/Split-horizon_DNS](https://en.wikipedia.org/wiki/Split-horizon_DNS)
 
 Some countermeasures are listed below.
 
