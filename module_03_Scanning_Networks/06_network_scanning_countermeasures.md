@@ -27,8 +27,6 @@ Links
 
 - [https://en.wikipedia.org/wiki/IPsec](https://en.wikipedia.org/wiki/IPsec)
 
-- [Definition](../../definitions/definitions_I.md#internet-protocol-security)
-
 - Avoid authentication based on IP address
 - Use firewalls and ACLs
 - Use encyrption. IPSec can greatly reduce the risk of IP spoofing.
@@ -42,4 +40,3 @@ Splunk is the data platform that powers enterprise observability, unified securi
 Links
 
 - [https://www.splunk.com](https://www.splunk.com)
-- [Definition](../../definitions/definitions_S.md#splunk)

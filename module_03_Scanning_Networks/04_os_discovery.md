@@ -2,7 +2,7 @@
 
 ## Banner Grabbing
 
-Banner grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports. Administrators can use this to take inventory of the systems and services on their network. However, an intruder can use banner grabbing in order to find network hosts that are running versions of applications and operating systems with known exploits.
+> Banner grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports. Administrators can use this to take inventory of the systems and services on their network. However, an intruder can use banner grabbing in order to find network hosts that are running versions of applications and operating systems with known exploits.
 
 Links
 
@@ -12,9 +12,9 @@ Links
 
 ## Wireshark
 
-Wireshark is the world’s foremost and widely-used network protocol analyzer.
-It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
-Wireshark development thrives thanks to the volunteer contributions of networking experts around the globe and is the continuation of a project started by Gerald Combs in 1998.
+> Wireshark is the world’s foremost and widely-used network protocol analyzer.
+> It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial >and non-profit enterprises, government agencies, and educational institutions.
+> Wireshark development thrives thanks to the volunteer contributions of networking experts around the globe and is the continuation of a project started by Gerald Combs in 1998.
 
 Links
 
