@@ -22,9 +22,9 @@ Links
 
 ## nmap
 
-Nmap is a network scanner created by Gordon Lyon.
-Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
-Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection.
+> Nmap is a network scanner created by Gordon Lyon.
+> Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
+> Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection.
 
 Links
 
@@ -33,8 +33,8 @@ Links
 
 ## hping3
 
-hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies.
-It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols.
+> hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies.
+> It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols.
 
 Links
 
@@ -42,8 +42,8 @@ Links
 
 ## Metasploit
 
-Knowledge is power, especially when it’s shared.
-A collaboration between the open source community and Rapid7, Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
+> Knowledge is power, especially when it’s shared.
+> A collaboration between the open source community and Rapid7, Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
 
 Links
 
