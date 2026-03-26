@@ -34,7 +34,7 @@ Links
 
 ## Privilege Escalation
 
-Privilege escalation is the act of exploiting a bug, a design flaw, or a configuration oversight in an operating system or software application to gain elevated access to resources that are normally protected from an application or user.
+> Privilege escalation is the act of exploiting a bug, a design flaw, or a configuration oversight in an operating system or software application to gain elevated access to resources that are normally protected from an application or user.
 
 Links
 
@@ -42,8 +42,8 @@ Links
 
 ## Vulnerability Assesment
 
-A vulnerability assessment is the process of identifying, quantifying, and prioritizing (or ranking) the vulnerabilities in a system.
-Examples of systems for which vulnerability assessments are performed include, but are not limited to, information technology systems, energy supply systems, water supply systems, transportation systems, and communication systems.
+> A vulnerability assessment is the process of identifying, quantifying, and prioritizing (or ranking) the vulnerabilities in a system.
+> Examples of systems for which vulnerability assessments are performed include, but are not limited to, information technology systems, energy supply systems, water supply systems, transportation systems, and communication systems.
 
 Links
 
@@ -51,9 +51,9 @@ Links
 
 ## Cyber Kill Chain
 
-Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity.
-The model identifies what the adversaries must complete in order to achieve their objective.
-The chain:
+> Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity.
+> The model identifies what the adversaries must complete in order to achieve their objective.
+> The chain:
 
 - Reconnaissance
   - Harvesting email addresses, conference information, etc.
@@ -76,8 +76,8 @@ Links
 
 ## Tactics, Techniques and Procedures
 
-Tactics, Techniques, and Procedures (TTPs) is an essential concept in terrorism and cyber security studies.
-The role of TTPs in terrorism analysis is to identify individual patterns of behavior of a particular terrorist activity, or a particular terrorist organisation, and to examine and categorize more general tactics and weapons used by a particular terrorist activity, or a particular terrorist organisation.
+> Tactics, Techniques, and Procedures (TTPs) is an essential concept in terrorism and cyber security studies.
+> The role of TTPs in terrorism analysis is to identify individual patterns of behavior of a particular terrorist activity, or a particular terrorist organisation, and to examine and categorize more general tactics and weapons used by a particular terrorist activity, or a particular terrorist organisation.
 
 Links
 
