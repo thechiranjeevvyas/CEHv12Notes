@@ -16,7 +16,7 @@ The CEH hacking methodology consists of the following phases:
 
 ### Exploit
 
-An exploit (from the English verb to exploit, meaning "to use something to one’s own advantage") is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic (usually computerized).
+> An exploit (from the English verb to exploit, meaning "to use something to one’s own advantage") is a piece of software, a chunk of data, or a sequence of commands that takes advantage of a bug or vulnerability to cause unintended or unanticipated behavior to occur on computer software, hardware, or something electronic (usually computerized).
 
 - [https://en.wikipedia.org/wiki/Exploit\_(computer_security)](<https://en.wikipedia.org/wiki/Exploit_(computer_security)>)
   Footprinting
