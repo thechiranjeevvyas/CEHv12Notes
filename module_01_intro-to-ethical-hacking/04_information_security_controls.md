@@ -24,15 +24,15 @@ Links
 
 ## Risk Management
 
-Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
+> Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
 
 ## Cyber Threat Intelligence
 
-Cyber threat intelligence (CTI) is knowledge, skills and experience-based information concerning the occurrence and assessment of both cyber and physical threats and threat actors that is intended to help mitigate potential attacks and harmful events occurring in cyberspace.
+> Cyber threat intelligence (CTI) is knowledge, skills and experience-based information concerning the occurrence and assessment of both cyber and physical threats and threat actors that is intended to help mitigate potential attacks and harmful events occurring in cyberspace.
 
 ### Cyber threat intelligence - tactical
 
-Technical intelligence (including Indicators of Compromise such as IP addresses, file names, or hashes) which can be used to assist in the identification of threat actors.
+> Technical intelligence (including Indicators of Compromise such as IP addresses, file names, or hashes) which can be used to assist in the identification of threat actors.
 
 ### Cyber threat intelligence - operational
 
