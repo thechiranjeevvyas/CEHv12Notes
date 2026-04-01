@@ -36,11 +36,11 @@ Links
 
 ### Cyber threat intelligence - operational
 
-Operational: details of the motivation or capabilities of threat actors, including their tools, techniques and procedures.
+> Operational: details of the motivation or capabilities of threat actors, including their tools, techniques and procedures.
 
 ### Cyber threat intelligence - strategic
 
-Strategic: intelligence about the overarching risks associated with cyber threats which can be used to drive high-level organizational strategy.
+> Strategic: intelligence about the overarching risks associated with cyber threats which can be used to drive high-level organizational strategy.
 
 Links
 
