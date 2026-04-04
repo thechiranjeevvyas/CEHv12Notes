@@ -56,8 +56,8 @@ Links
 
 ## Incident Management
 
-An incident is an event that could lead to loss of, or disruption to, an organization's operations, services or functions.
-Incident management (IcM) is a term describing the activities of an organization to identify, analyze, and correct hazards to prevent a future re-occurrence.
+> An incident is an event that could lead to loss of, or disruption to, an organization's operations, services or functions.
+> Incident management (IcM) is a term describing the activities of an organization to identify, analyze, and correct hazards to prevent a future re-occurrence.
 
 Links
 
@@ -65,9 +65,9 @@ Links
 
 ## Incident Response Team
 
-An incident response team (IRT) or emergency response team (ERT) is a group of people who prepare for and respond to an emergency, such as a natural disaster or an interruption of business operations.
-Incident response teams are common in public service organizations as well as in other organizations, either military or specialty.
-This team is generally composed of specific members designated before an incident occurs, although under certain circumstances the team may be an ad hoc group of willing volunteers.
+> An incident response team (IRT) or emergency response team (ERT) is a group of people who prepare for and respond to an emergency, such as a natural disaster or an interruption of business operations.
+> Incident response teams are common in public service organizations as well as in other organizations, either military or specialty.
+> This team is generally composed of specific members designated before an incident occurs, although under certain circumstances the team may be an ad hoc group of willing volunteers.
 
 Links
 
