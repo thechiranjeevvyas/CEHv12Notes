@@ -1,8 +1,5 @@
-# README
-
-[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=C084FC)](https://cvs-organization.gitbook.io/ceh-v12-notes)
-
 ## CEH v12 Notes
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook\&logo=gitbook\&logoColor=ffffff\&label=%20\&labelColor=5c5c5c\&color=C084FC)](https://cvs-organization.gitbook.io/ceh-v12-notes)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0bb6b487-42e4-4ccc-8709-ea0b6e8b5a93/deploy-status)](https://app.netlify.com/sites/cehnotes/deploys)
 
