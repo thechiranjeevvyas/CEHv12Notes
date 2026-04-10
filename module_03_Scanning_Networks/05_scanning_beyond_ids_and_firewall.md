@@ -26,7 +26,7 @@ Links
 
 ## Source routing
 
-In computer networking, source routing, also called path addressing, allows a sender of a packet to partially or completely specify the route the packet takes through the network.
+>In computer networking, source routing, also called path addressing, allows a sender of a packet to partially or completely specify the route the packet takes >through the network.
 
 Links
 
