@@ -36,7 +36,7 @@ Links
 
 ## Internet protocol (IP) address spoofing
 
-In computer networking, IP address spoofing or IP spoofing is the creation of Internet Protocol (IP) packets with a false source IP address, for the purpose of impersonating another computing system.
+>In computer networking, IP address spoofing or IP spoofing is the creation of Internet Protocol (IP) packets with a false source IP address, for the purpose of >impersonating another computing system.
 
 Links
 
