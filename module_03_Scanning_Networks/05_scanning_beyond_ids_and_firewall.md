@@ -45,8 +45,8 @@ Links
 ## Media Access Control Address Spoofing
 
 >MAC spoofing is a technique for changing a factory-assigned Media Access Control (MAC) address of a network interface on a networked device.
-The MAC address that is hard-coded on a network interface controller (NIC) cannot be changed.
-However, many drivers allow the MAC address to be changed.
+>The MAC address that is hard-coded on a network interface controller (NIC) cannot be changed.
+>However, many drivers allow the MAC address to be changed.
 
 Links
 
