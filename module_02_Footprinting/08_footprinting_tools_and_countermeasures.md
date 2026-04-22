@@ -4,7 +4,7 @@
 
 ## Recon-ng
 
-Recon-ng is a Web Reconnaissance tool written in Python.
+>Recon-ng is a Web Reconnaissance tool written in Python.
 It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.
 
 Links
@@ -15,7 +15,7 @@ Links
 
 ## Split DNS
 
-In computer networking, split-horizon DNS (also known as split-view DNS, split-brain DNS, or split DNS) is the facility of a Domain Name System (DNS) implementation to provide different sets of DNS information, usually selected by the source address of the DNS request.
+>In computer networking, split-horizon DNS (also known as split-view DNS, split-brain DNS, or split DNS) is the facility of a Domain Name System (DNS) implementation to provide different sets of DNS information, usually selected by the source address of the DNS request.
 
 Links
 
