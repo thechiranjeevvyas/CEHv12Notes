@@ -21,7 +21,7 @@ Links
 
 - [https://en.wikipedia.org/wiki/Split-horizon_DNS](https://en.wikipedia.org/wiki/Split-horizon_DNS)
 
-Some countermeasures are listed below.
+>Some countermeasures are listed below.
 
 - Restrict network access to social media from the corporate network.
 - Security awereness training
