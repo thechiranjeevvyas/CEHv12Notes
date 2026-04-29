@@ -20,7 +20,7 @@
 
 ## IP Spoofing Countermeasures
 
-- Internet Protocol Security
+> Internet Protocol Security
   In computing, Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network. It is used in virtual private networks (VPNs).
 
 Links
@@ -35,7 +35,7 @@ Links
 
 ## Splunk
 
-Splunk is the data platform that powers enterprise observability, unified security and limitless custom applications in hybrid environments.
+> Splunk is the data platform that powers enterprise observability, unified security and limitless custom applications in hybrid environments.
 
 Links
 
