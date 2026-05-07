@@ -11,9 +11,9 @@ Links
 
 ## ISO 27001
 
-ISO/IEC 27001 is an international standard on how to manage information security.
-The standard was originally published jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) in 2005 and then revised in 2013.
-It details requirements for establishing, implementing, maintaining and continually improving an information security management system (ISMS) – the aim of which is to help organizations make the information assets they hold more secure.
+> ISO/IEC 27001 is an international standard on how to manage information security.
+>The standard was originally published jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) in 2005 and then revised in 2013.
+> It details requirements for establishing, implementing, maintaining and continually improving an information security management system (ISMS) – the aim of which is to help organizations make the information assets they hold more secure.
 
 Links
 
